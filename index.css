@@ -1,0 +1,88 @@
+body {
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-escritorio-flores-vector-lindo_53876-136877.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+ 
+}
+
+#titulo h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 70px;
+  background-color: chocolate;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: cursive;
+}
+
+h3 {
+  font-size: 40px;
+  font-family: cursive;
+}
+
+d1 {
+  font-size: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p {
+  color: chocolate;
+  font-size: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sec-1 {
+  text-align: center;
+  font-family: garamond, serif;
+}
+
+li {
+  font-size: 30px;
+  color: rgb(51, 51, 66);
+  font-family: cursive;
+}
+
+lu {
+  font-size: 50px;
+  color: blue;
+  font-family: cursive;
+}
+
+img {
+  width: 40%;
+  height: 10%;
+  border: 10px solid rgb(12, 11, 11);
+}
+
+.table-1 {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(55, 214, 161);
+  border: 10px solid rgb(44, 58, 78);
+
+}
+
+.sec-4 h2 {
+  font-size: 30px;
+  font-family: garamond, serif;
+  text-align: left;
+  padding-right: 600px;
+}
+
+.sec-5 h2 {
+  font-size: 20px;
+  font-family: garamond, serif;
+  text-align: left;
+  padding-right: 600px;
+}
+
+.tabla2 {
+  float: right;
+  width: 40%;
+  height: 300px;
+  background-color: rgb(151, 228, 26);
+}
